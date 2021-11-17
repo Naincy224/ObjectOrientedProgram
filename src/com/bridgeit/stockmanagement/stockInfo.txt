@@ -1,0 +1,4 @@
+lg 50 5
+macd 30 90
+jio 40 20
+dominoz 90 130
